@@ -1,0 +1,62 @@
+
+body {
+    font-family: Open Sans, sans-serif;
+    background: #28143f;
+    font-size: 16px;
+    color:#fff;
+    padding-top:50px;
+    list-style: none;
+}
+
+
+
+.search {
+  text-align: center;
+}
+
+input {
+  background-color: #fff;
+    opacity: 0.5;
+}
+
+.list {
+  margin-left: 15px;
+}
+
+
+.img-friend img{
+
+  width: 15%;
+  margin-right: 10px;
+  margin-bottom: 6px;
+  margin-top: 6px;
+
+}
+
+li {
+  border: 1px;
+  border-bottom-style: solid ;
+  border-color: #FC2D78;
+}
+
+#project-label {
+    display: block;
+    margin-bottom: 1em;
+
+
+
+  }
+  #project-icon {
+    height: 32px;
+    width: 32px;
+    background-color: #fff;
+    opacity: 0.5;
+  
+
+
+  }
+  #project-description {
+    margin: 0;
+    padding: 0;
+  }
+
